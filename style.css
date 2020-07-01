@@ -1,15 +1,20 @@
 body {
-background-image: url("media/black-and-blue.jpg");
-    
+    background-image: url("media/black-and-blue.jpg");
+
+}
+
+#about-me {
+
+    font-weight: 500;
 }
 
 .card {
 
-    background-color: lightgrey;
+    background-color: #3FB8FD;
     margin: 10px;
 }
 
-#contactme  {
+#contactme {
 
     margin-top: 20px;
 }
@@ -19,7 +24,16 @@ background-image: url("media/black-and-blue.jpg");
     color: whitesmoke;
 }
 
-label {
+.port-card {
 
-    /* color: whitesmoke; */
+    font-weight: 600;
+}
+
+
+.link {
+    color: black;
+}
+
+.link:visited {
+    color: black;
 }
