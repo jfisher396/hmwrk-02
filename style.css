@@ -1,6 +1,6 @@
 body {
     background-image: url("media/black-and-blue.jpg");
-    background-color: black;
+    background-color: lightslategray;
 
 }
 
@@ -12,7 +12,7 @@ body {
 .card {
 
     background-color: #3FB8FD;
-    margin: 10px;
+    margin: 10px 10px 10px;
 }
 
 #contactme {
